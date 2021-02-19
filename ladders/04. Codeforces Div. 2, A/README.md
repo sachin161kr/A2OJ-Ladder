@@ -34,7 +34,7 @@
 |<ul><li>- [*] Done</li></ul>|27|[Devu, the Singer and Churu, the Joker](http://codeforces.com/problemset/problem/439/A)|Codeforces|2|
 |<ul><li>- [*] Done</li></ul>|28|[Fox And Snake](http://codeforces.com/problemset/problem/510/A)|Codeforces|1|
 |<ul><li>- [*] Done</li></ul>|29|[IQ test](http://codeforces.com/problemset/problem/25/A)|Codeforces|1|
-|<ul><li>- [ ] Done</li></ul>|30|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
+|<ul><li>- [*] Done</li></ul>|30|[Choosing Teams](http://codeforces.com/problemset/problem/432/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|31|[Cakeminator](http://codeforces.com/problemset/problem/330/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|32|[Valera and Antique Items](http://codeforces.com/problemset/problem/441/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|33|[Appleman and Easy Task](http://codeforces.com/problemset/problem/462/A)|Codeforces|2|
